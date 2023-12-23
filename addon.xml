@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<addon id="skin.estuary.zelkami" version="3.0.10" name="Estuary (ZelKami)" provider-name="ZelKami">
+<addon id="skin.estuary.zelkami" version="1.0.0" name="Estuary (ZelKami)" provider-name="ZelKami">
 	<requires>
 		<import addon="xbmc.gui" version="5.16.0"/>
 	</requires>
